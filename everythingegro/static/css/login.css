@@ -1,0 +1,12 @@
+body{
+    background-color: lightgray;
+    margin: 150px;
+    width: 100%;
+}
+#login-container{
+    width: 50%;
+}
+#login-submit{
+    background-color: rgb(1, 18, 26);
+    border-color: rgb(1, 18, 26);
+}
